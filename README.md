@@ -5,8 +5,8 @@
 * I learned how readMe works
 * I learned markdown syntax
 * I learned how to use github desktop, an easy way to link your xcode project to a respository
-## New to XCode
-*Learning Xcode was a bit of a learning curve. I have created multiple apps like slots, card game following the codeWithChris tutorial. Currently im working on [EPHS timer](https://github.com/BillA-Dev/EPHS).*
+## New to XCode and Swift programming language
+*Learning Xcode and swfit was a bit of a learning curve. I have created multiple apps like slots, card game following the codeWithChris tutorial. Currently im working on [EPHS timer](https://github.com/BillA-Dev/EPHS).*
 * I learned how to naviagate Xcode
 * I learned how to debug an app
 * Learned the basic on swfit; var, constant, structs, bindings and states, swiftUI, dictionaries, arrays, loops, timers.
