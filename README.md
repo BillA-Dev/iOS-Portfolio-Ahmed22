@@ -10,6 +10,17 @@
 * I learned how to naviagate Xcode
 * I learned how to debug an app
 * Learned the basic on swfit; var, constant, structs, bindings and states, swiftUI, dictionaries, arrays, loops, timers.
+* Learned how to use an api, URLSession
+* Learned how to use UiKit and change list background color
+* Learned how to create a mac app
+* Created my own navigation view
+* Learned how to use CloudKit, delete, add, fetch
+* Learned how to parse a json, without codable
+* Learned about extensions, and protocols
+* Learned how to create globalVairables; enviormentObjects
+* Learned how to animate objects moving
+* Learned how to create shapes
+* Learned how to 
 ## New to Sketch
 * Learned how to create an icon for multiple devices
 * Learned how to edit an icon; changing its brightness, saturation, contrast
