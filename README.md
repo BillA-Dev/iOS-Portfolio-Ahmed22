@@ -20,7 +20,9 @@ This last python project was the hardest of them all. I prgrammed this app to he
 ## Java
 ### Password Generator
 This was my first java project that involved UI desin. The sole purpose of the app is to generate secure passwords on the go. I know how hard it can be to come up with passwords on the spot
+
 ![passwordGen](https://user-images.githubusercontent.com/79151733/161860099-e259cdda-467f-4f81-bd0f-6358381b9cf5.png)
+
 ### Cashier 
 ![ADMIN](https://user-images.githubusercontent.com/79151733/161860091-61e14152-0d15-41b1-9dfa-4474125f2948.png)
 ### Directory Watcher
