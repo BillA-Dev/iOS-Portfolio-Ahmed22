@@ -17,6 +17,13 @@ This is the second big python project that I created. The puprose behind this wa
 This last python project was the hardest of them all. I prgrammed this app to help me with my physics homework; to tell me wether my graphs are right or not. This project allwoed me to learn about math functions in swift and math plot lib
 ![Vector](https://user-images.githubusercontent.com/79151733/161859780-d06b9167-6c75-4234-946a-46664c4af375.png)
 
+## Java
+![ADMIN](https://user-images.githubusercontent.com/79151733/161860091-61e14152-0d15-41b1-9dfa-4474125f2948.png)
+![passwordGen](https://user-images.githubusercontent.com/79151733/161860099-e259cdda-467f-4f81-bd0f-6358381b9cf5.png)
+![watchDir](https://user-images.githubusercontent.com/79151733/161860107-616c25fa-264a-4916-af0c-d741e154674f.png)
+
+## Swift
+
 
 ## New to github
 
