@@ -5,6 +5,13 @@ Hello, My name is Bilal Ahmed, a junior in high school, and this is my portfolio
 
 I first got into programming in APCSP where we learned to block code. I was fascinated by the inner workings and what you could accomplish. This led me to taking AP java where I learned the basics and got a decent understanding of the programming language. Then over the summer I delved deeper into java and learned python. I used python to automate, and run task that I would do daily
 
+
+## Python
+This is my first python project I created; a disney+ movie picker. The purpose behind this app was to help my indescivness and save time. This app allowed me to learn about UI--PYQT-- and how to use an API. 
+![Disney+](https://user-images.githubusercontent.com/79151733/161858349-26002d6f-7a97-4ae9-8f58-a0f3a97c43a8.png)
+
+
+
 ## New to github
 * I learned how to commit and push files straight from Xcode
 * I learned how readMe works
