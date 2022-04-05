@@ -18,12 +18,18 @@ This last python project was the hardest of them all. I prgrammed this app to he
 ![Vector](https://user-images.githubusercontent.com/79151733/161859780-d06b9167-6c75-4234-946a-46664c4af375.png)
 
 ## Java
-![ADMIN](https://user-images.githubusercontent.com/79151733/161860091-61e14152-0d15-41b1-9dfa-4474125f2948.png)
+### Password Generator
+This was my first java project that involved UI desin. The sole purpose of the app is to generate secure passwords on the go. I know how hard it can be to come up with passwords on the spot
 ![passwordGen](https://user-images.githubusercontent.com/79151733/161860099-e259cdda-467f-4f81-bd0f-6358381b9cf5.png)
+### Cashier 
+![ADMIN](https://user-images.githubusercontent.com/79151733/161860091-61e14152-0d15-41b1-9dfa-4474125f2948.png)
+### Directory Watcher
+This java project was by far the hardest. I had to learn about how directories work, how to watch a directory constantly, transfer data between classes, saving choices. The intended purpose of the app was to clear clutter in your directory. For example, If you chose your download folder to be your watched direcotry the program would find the selected file endings and move them accordingly. 
 ![watchDir](https://user-images.githubusercontent.com/79151733/161860107-616c25fa-264a-4916-af0c-d741e154674f.png)
 
 ## Swift
-
+### EPHS
+### OpenVote
 
 ## New to github
 
