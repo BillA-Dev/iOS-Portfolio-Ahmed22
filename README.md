@@ -1,5 +1,10 @@
 # iOS-Portfolio-Ahmed22
 
+
+Hello, My name is Bilal Ahmed, a junior in high school, and this is my portfolio to showcase all my projects I have worked on thus far. Eversince I was a kid I have been fascinated with programming and computers. Whenever I would come home from school, I would mess around on my home pc; a stress releiver. Although, I liked programming I never fully commited to learning a language. I would get bored really fast; I always wanted to accomplsih more than what I could. 
+
+I first got into programming in APCSP where we learned to block code. I was fascinated by the inner workings and what you could accomplish. This led me to taking AP java where I learned the basics and got a decent understanding of the programming language. Then over the summer I delved deeper into java and learned python. I used python to automate, and run task that I would do daily
+
 ## New to github
 * I learned how to commit and push files straight from Xcode
 * I learned how readMe works
