@@ -7,8 +7,11 @@ I first got into programming in APCSP where we learned to block code. I was fasc
 
 
 ## Python
+##### Dinsey+
 This is my first python project I created; a disney+ movie picker. The purpose behind this app was to help my indescivness and save time. This app allowed me to learn about UI--PYQT-- and how to use an API. 
 ![Disney+](https://user-images.githubusercontent.com/79151733/161858349-26002d6f-7a97-4ae9-8f58-a0f3a97c43a8.png)
+##### pyqt to code
+![pyqt](https://user-images.githubusercontent.com/79151733/161858820-7c76994b-d38d-4ca8-b143-58048e826952.png)
 
 
 
