@@ -24,6 +24,7 @@ This was my first java project that involved UI desin. The sole purpose of the a
 ![passwordGen](https://user-images.githubusercontent.com/79151733/161860099-e259cdda-467f-4f81-bd0f-6358381b9cf5.png)
 
 ### Cashier 
+*I will not be linking a repo, this has sensitive database and password information*
 ![ADMIN](https://user-images.githubusercontent.com/79151733/161860091-61e14152-0d15-41b1-9dfa-4474125f2948.png)
 ### Directory Watcher
 This java project was by far the hardest. I had to learn about how directories work, how to watch a directory constantly, transfer data between classes, saving choices. The intended purpose of the app was to clear clutter in your directory. For example, If you chose your download folder to be your watched direcotry the program would find the selected file endings and move them accordingly. 
