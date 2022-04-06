@@ -1,7 +1,9 @@
 # iOS-Portfolio-Ahmed22
 
 
-Hello! My name is Bilal Ahmed, a junior in high school, and this is my portfolio to showcase all my projects I have worked on thus far. Eversince I was a kid I have been fascinated with hardware side of things; never programming. I always felt programming to be boring, hoever that changed when I took my first programming class in High School, APCSP. In that class I learned what programming is, and block coded up a few cool apps. Although, this was block coding it helped me realized how important programming can be. This then lead me to taking AP Java in which I learned java, shocker. This was a tough leap from block coding to writing actual lines of code. over the summer I delved deeper into java and learned python. I used python to automate, and run task that I would do daily
+Hello! My name is Bilal Ahmed, a junior in high school, and this is my portfolio to showcase all my projects I have worked on thus far. Eversince I was a kid I have been fascinated with hardware side of things; never programming. I always felt programming to be boring, hoever that changed when I took my first programming class in High School, APCSP. In that class I learned what programming is, and block coded up a few cool apps. Although, this was block coding it helped me realized how important programming can be. This then lead me to taking AP Java in which I learned java, shocker. This was a tough leap from block coding to writing actual lines of code, but I eventially got the hang of it. Over the summer I delved deeper into java and learned more complex topics like importing data, and implementation. Additionally, I also learned python; for the sole purpose of automating boring daily task. Currently, I am taking IOS and working on EPHS Timer and OpenVote
+
+**Below are my best projects in each language; java, python, and swift**
 
 
 ## Python
