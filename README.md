@@ -41,8 +41,9 @@ The EPHS timer app was the first swift project I worked on. This was a steep lea
 
 ### [OpenVote](https://github.com/BillA-Dev/OpenVote)
 ![img_2852-2](https://user-images.githubusercontent.com/79151733/161882965-5c1bc5c2-3b63-4576-9f31-309000122cc8.png)
-![IMG_2853](https://user-images.githubusercontent.com/79151733/161882662-9bbce0c1-80fb-4a16-95d0-fdfc416227c8.PNG)
-![IMG_2854](https://user-images.githubusercontent.com/79151733/161882663-720a8aeb-d2c7-4763-b80a-ef1b0641b9db.PNG)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/79151733/161883082-920d7e97-4ae7-43a8-bf2b-54b66c583bdd.png)
+![Webp net-resizeimage-2](https://user-images.githubusercontent.com/79151733/161883174-370a728d-edb3-47e8-a264-97abf891e7ab.png)
+
 
 ## Programming Language Levels
 * Java - Intermediate
