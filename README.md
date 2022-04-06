@@ -29,11 +29,12 @@ This was my first advanced java project because it invovled the use of GUI compo
 This is another project I made that doesnt really have a real purpose. The reason I created this app was to test mySQL databases, which I have been intrested in for a while. This app allowed me to learn how to connect java to mySQL and learn how mySQL data is stored.
 ![ADMIN](https://user-images.githubusercontent.com/79151733/161860091-61e14152-0d15-41b1-9dfa-4474125f2948.png)
 ### [Directory Watcher](https://github.com/BillA-Dev/DirectoryWatcher)
-This is my lasy java project and was by far the hardest. This project challenged me in many ways. For instance, I had to learn about how directories work, how to watch a directory constantly, transfer data between classes, saving choices. The intended purpose of the app was to clear clutter in your directory. For example, If you chose your download folder to be your watched direcotry the program would find the selected file endings and move them accordingly. 
+This is my last java project and was by far the hardest. This project challenged me in many ways. For instance, I had to learn about how directories work, how to watch a directory constantly, transfer data between classes, saving choices. The intended purpose of the app was to clear clutter in your directory. To illustrate, if you chose your download folder to be your watched direcotry the program would find the selected file endings and move them accordingly. 
 ![watchDir](https://user-images.githubusercontent.com/79151733/161860107-616c25fa-264a-4916-af0c-d741e154674f.png)
 
 ## Swift
-### [EPHS](https://github.com/BillA-Dev/EPHS)
+### [EPHS Timer App](https://github.com/BillA-Dev/EPHS)
+The EPHS timer app was the first swift project I worked on. This was a steep learning curve as swift was not something I was used to. I thought of swift as a blend of java and python; could not quite wrap my brain around it. After a while I eventually got it to work, and had a lot of fun developing the app. This project is still ongoing but i learned how swiftUI works and cloudKit
 ### [OpenVote](https://github.com/BillA-Dev/OpenVote)
 
 ## Programming Language Levels
