@@ -7,7 +7,7 @@ Hello! My name is Bilal Ahmed, a junior in high school, and this is my portfolio
 
 
 ## Python
-### [Dinsey+](https://github.com/BillA-Dev/Disney-)
+### [Disney+](https://github.com/BillA-Dev/Disney-)
 This is the first python project I created that involved a GUI; a disney+ movie picker. I had always been the indecisive type of person; I could never choose the right move, so that's why I created this app. This app has saved me minutes of just pointless searching. This app was beneficial to make because I learned about UI--PYQT-- and how to use an API. 
 ![Disney+](https://user-images.githubusercontent.com/79151733/161858349-26002d6f-7a97-4ae9-8f58-a0f3a97c43a8.png)
 ### [PYQT to python code](https://github.com/BillA-Dev/PYQT_to_Python)
