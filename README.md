@@ -35,6 +35,9 @@ This is my last java project and was by far the hardest. This project challenged
 ## Swift
 ### [EPHS Timer App](https://github.com/BillA-Dev/EPHS)
 The EPHS timer app was the first swift project I worked on. This was a steep learning curve as swift was not something I was used to. I thought of swift as a blend of java and python; could not quite wrap my brain around it. After a while I eventually got it to work, and had a lot of fun developing the app. This project is still ongoing but i learned how swiftUI works and cloudKit
+
+![EPHS TIMER](https://user-images.githubusercontent.com/79151733/161882157-0c2bc839-ac36-4a2a-99b9-78ff1b5fcd82.png)
+
 ### [OpenVote](https://github.com/BillA-Dev/OpenVote)
 
 ## Programming Language Levels
