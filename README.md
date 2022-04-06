@@ -1,7 +1,7 @@
 # iOS-Portfolio-Ahmed22
 
 
-Hello! My name is Bilal Ahmed, a junior in high school, and this is my portfolio to showcase all my projects I have worked on thus far. Eversince I was a kid I have been fascinated with hardware side of things; never programming. I always felt programming to be boring, hoever that changed when I took my first programming class in High School, APCSP. In that class I learned what programming is, and block coded up a few cool apps. Although, this was block coding it helped me realized how important programming can be. This then lead me to taking AP Java in which I learned java, shocker. This was a tough leap from block coding to writing actual lines of code, but I eventially got the hang of it. Over the summer I delved deeper into java and learned more complex topics like importing data, and implementation. Additionally, I also learned python; for the sole purpose of automating boring daily task. Currently, I am taking IOS and working on EPHS Timer and OpenVote
+Hello! My name is Bilal Ahmed, a junior in high school, and this is my portfolio to showcase all my projects I have worked on thus far. Eversince I was a kid I have been fascinated with hardware side of things; never programming. I always felt programming to be boring, hoever that changed when I took my first programming class in High School, APCSP. In that class I learned what programming is, and block coded up a few cool apps. Although, this was block coding it helped me realized how important programming can be. This then lead me to taking AP Java in which I learned java, shocker. This was a tough leap from block coding to writing actual lines of code, but I eventially got the hang of it. Over the summer I delved deeper into java and learned more complex topics like importing data, implementation, and APIS. Additionally, I also learned python; for the sole purpose of automating boring daily task. Currently, I am taking IOS and working on EPHS Timer and OpenVote
 
 **Below are my best projects in each language; java, python, and swift**
 
@@ -34,31 +34,7 @@ This java project was by far the hardest. I had to learn about how directories w
 ### [EPHS](https://github.com/BillA-Dev/EPHS)
 ### [OpenVote](https://github.com/BillA-Dev/OpenVote)
 
-## New to github
-
-* I learned how to commit and push files straight from Xcode
-* I learned how readMe works
-* I learned markdown syntax
-* I learned how to use github desktop, an easy way to link your xcode project to a respository
-## New to XCode and Swift programming language
-*Learning Xcode and swfit was a bit of a learning curve. I have created multiple apps like slots, card game following the codeWithChris tutorial. Currently im working on [EPHS timer](https://github.com/BillA-Dev/EPHS).*
-* I learned how to naviagate Xcode
-* I learned how to debug an app
-* Learned the basic on swfit; var, constant, structs, bindings and states, swiftUI, dictionaries, arrays, loops, timers.
-* Learned how to use an api, URLSession
-* Learned how to use UiKit and change list background color
-* Learned how to create a mac app
-* Created my own navigation view
-* Learned how to use CloudKit, delete, add, fetch
-* Learned how to parse a json, without codable
-* Learned about extensions, and protocols
-* Learned how to create globalVairables; enviormentObjects
-* Learned how to animate objects moving
-* Learned how to create shapes
-* Learned how to 
-## New to Sketch
-* Learned how to create an icon for multiple devices
-* Learned how to edit an icon; changing its brightness, saturation, contrast
-## New to Blender
-* Learned the basic of 3d modeling and icon design. 
-* Learned how lighting works, extrusion, subsurface, bevels.
+## Programming Language Levels
+* Java - Intermediate
+* Python - Intermediate
+* Swift - Intermediate
