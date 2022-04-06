@@ -12,6 +12,7 @@ This is my first python project I created that invovled a GUI; a disney+ movie p
 ![Disney+](https://user-images.githubusercontent.com/79151733/161858349-26002d6f-7a97-4ae9-8f58-a0f3a97c43a8.png)
 ### [PYQT to python code](https://github.com/BillA-Dev/PYQT_to_Python)
 This is my second big python project that I created. I created this app to help save time when translating pyQT ui to Python code. Without the app, you have to use terminal, move files which is tedious especially on a time line. This prject alllowed me learn how to call command line in python code as well as learning about threads.
+
 ![pyqt](https://user-images.githubusercontent.com/79151733/161858820-7c76994b-d38d-4ca8-b143-58048e826952.png)
 ### [Vector Calculator](https://github.com/BillA-Dev/VectorAddition/blob/main/main.py)
 This is my last significatn python project. The purpose of this app was to help me with my physics homework. There were not alot of graphing reasources online, and I didnt know if I was doing it correclty. This app takes the magnitude and angle and graphs it in a neat format. This project allowed me to learn about math functions in python and how to use mathplotlib
@@ -19,15 +20,16 @@ This is my last significatn python project. The purpose of this app was to help 
 
 ## Java
 ### [Password Generator](https://github.com/BillA-Dev/PasswordGenerator)
-This was my first java project that involved UI desin. The sole purpose of the app is to generate secure passwords on the go. I know how hard it can be to come up with passwords on the spot
+This was my first advanced java project because it invovled the use of GUI components. Creating GUI is difficult in java but Eclipse has a nice plug in which allows you to drag and drop. The purpose of the app was to create strong passwords on the go. This is helpful if you cant think of passwords or are in a rush. The project allowed me to learn about GUI components in java. 
 
 ![passwordGen](https://user-images.githubusercontent.com/79151733/161860099-e259cdda-467f-4f81-bd0f-6358381b9cf5.png)
 
 ### Cashier 
 *I will not be linking a repo, this has sensitive database and password information*
+This is another project I made that doesnt really have a real purpose. The reason I created this app was to test mySQL databases, which I have been intrested in for a while. This app allowed me to learn how to connect java to mySQL and learn how mySQL data is stored.
 ![ADMIN](https://user-images.githubusercontent.com/79151733/161860091-61e14152-0d15-41b1-9dfa-4474125f2948.png)
 ### [Directory Watcher](https://github.com/BillA-Dev/DirectoryWatcher)
-This java project was by far the hardest. I had to learn about how directories work, how to watch a directory constantly, transfer data between classes, saving choices. The intended purpose of the app was to clear clutter in your directory. For example, If you chose your download folder to be your watched direcotry the program would find the selected file endings and move them accordingly. 
+This is my lasy java project and was by far the hardest. This project challenged me in many ways. For instance, I had to learn about how directories work, how to watch a directory constantly, transfer data between classes, saving choices. The intended purpose of the app was to clear clutter in your directory. For example, If you chose your download folder to be your watched direcotry the program would find the selected file endings and move them accordingly. 
 ![watchDir](https://user-images.githubusercontent.com/79151733/161860107-616c25fa-264a-4916-af0c-d741e154674f.png)
 
 ## Swift
