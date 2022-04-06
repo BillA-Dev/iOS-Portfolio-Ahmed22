@@ -25,7 +25,8 @@ This was my first advanced java project because it invovled the use of GUI compo
 ![passwordGen](https://user-images.githubusercontent.com/79151733/161860099-e259cdda-467f-4f81-bd0f-6358381b9cf5.png)
 
 ### Cashier 
-*I will not be linking a repo, this has sensitive database and password information*
+*I will not be linking a repo, this has sensitive personal information regarding databse and passwords*
+
 This is another project I made that doesnt really have a real purpose. The reason I created this app was to test mySQL databases, which I have been intrested in for a while. This app allowed me to learn how to connect java to mySQL and learn how mySQL data is stored.
 ![ADMIN](https://user-images.githubusercontent.com/79151733/161860091-61e14152-0d15-41b1-9dfa-4474125f2948.png)
 ### [Directory Watcher](https://github.com/BillA-Dev/DirectoryWatcher)
