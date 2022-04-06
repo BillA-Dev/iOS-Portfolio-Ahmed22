@@ -1,9 +1,7 @@
 # iOS-Portfolio-Ahmed22
 
 
-Hello, My name is Bilal Ahmed, a junior in high school, and this is my portfolio to showcase all my projects I have worked on thus far. Eversince I was a kid I have been fascinated with programming and computers. Whenever I would come home from school, I would mess around on my home pc; a stress releiver. Although, I liked programming I never fully commited to learning a language. I would get bored really fast; I always wanted to accomplsih more than what I could. 
-
-I first got into programming in APCSP where we learned to block code. I was fascinated by the inner workings and what you could accomplish. This led me to taking AP java where I learned the basics and got a decent understanding of the programming language. Then over the summer I delved deeper into java and learned python. I used python to automate, and run task that I would do daily
+Hello! My name is Bilal Ahmed, a junior in high school, and this is my portfolio to showcase all my projects I have worked on thus far. Eversince I was a kid I have been fascinated with hardware side of things; never programming. I always felt programming to be boring, hoever that changed when I took my first programming class in High School, APCSP. In that class I learned what programming is, and block coded up a few cool apps. Although, this was block coding it helped me realized how important programming can be. This then lead me to taking AP Java in which I learned java, shocker. This was a tough leap from block coding to writing actual lines of code. over the summer I delved deeper into java and learned python. I used python to automate, and run task that I would do daily
 
 
 ## Python
