@@ -40,9 +40,15 @@ The EPHS timer app was the first swift project I worked on. This was a steep lea
 ![EPHS TIMER](https://user-images.githubusercontent.com/79151733/161882157-0c2bc839-ac36-4a2a-99b9-78ff1b5fcd82.png)
 
 ### [OpenVote](https://github.com/BillA-Dev/OpenVote)
+OpenVote is a project dedicated to increasing transparency in American political spending, allowing voters to hold their elected officials accountable. Special interest money is at the heart of our government's dysfunction — it often dictates what issues are addressed and who benefits from Congress's solutions. But it doesn't have to be that way.
+
+
 ![img_2852-2](https://user-images.githubusercontent.com/79151733/161882965-5c1bc5c2-3b63-4576-9f31-309000122cc8.png)
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/79151733/161883082-920d7e97-4ae7-43a8-bf2b-54b66c583bdd.png)
 ![Webp net-resizeimage-2](https://user-images.githubusercontent.com/79151733/161883174-370a728d-edb3-47e8-a264-97abf891e7ab.png)
+
+### [PostItApp](https://github.com/EPHS-iOS/Spring2022GroupProject)
+Each semester, students in AP CSP create post-it note art around the high school. To encourage other students to find the art around the school, students in iOS created this app. With the PostItApp, users can take pictures of the art around the school and the app will reconize the image, giving users point for each image. The leaderboard shows the users with themost points.
 
 
 ## Programming Language Levels
