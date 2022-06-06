@@ -50,6 +50,14 @@ OpenVote is a project dedicated to increasing transparency in American political
 ### [PostItApp](https://github.com/EPHS-iOS/Spring2022GroupProject)
 Each semester, students in AP CSP create post-it note art around the high school. To encourage other students to find the art around the school, students in iOS created this app. With the PostItApp, users can take pictures of the art around the school and the app will reconize the image, giving users point for each image. The leaderboard shows the users with themost points.
 
+![171934710-6798b13f-9fcd-4c9d-8393-e10cb64a84bf](https://user-images.githubusercontent.com/79151733/172188700-4cb0dd31-17c1-48f3-83a6-bbf9316eab1d.png)
+![171934733-2744c27c-b307-4889-bb62-e0adbb3e9782](https://user-images.githubusercontent.com/79151733/172188725-2e87f7fc-4b4d-42f4-bf8b-176d939e5336.png)
+![171934742-97ea906b-3c68-4233-a764-35b8e68a372e](https://user-images.githubusercontent.com/79151733/172188775-a29c0e77-b6ea-4126-a845-6f06e15ee872.png)
+![171934812-8e59a7ef-be17-4b7f-9e61-7886a0b88b12](https://user-images.githubusercontent.com/79151733/172188800-1935ae26-de75-48cd-8b50-9cc6d8a8b39d.png)
+![171934821-4d56b3db-a7fc-4d6c-af07-3099973587fc](https://user-images.githubusercontent.com/79151733/172188822-46d1cbd3-5fd1-4355-a99e-7c43449fa458.png)
+
+## Frameworks Used
+* [Andras Samu's ChartView](https://github.com/AppPear/ChartView)
 
 ## Programming Language Levels
 * Java - Intermediate
