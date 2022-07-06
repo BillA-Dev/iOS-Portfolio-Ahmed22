@@ -63,3 +63,6 @@ Each semester, students in AP CSP create post-it note art around the high school
 * Java - Intermediate
 * Python - Intermediate
 * Swift - Intermediate
+* C++ - Beginner
+* SQL - Beginner
+
