@@ -1,17 +1,18 @@
 # iOS-Portfolio-Ahmed22
 
 
-Hello! My name is Bilal Ahmed, a junior in high school, and this is my portfolio to showcase all the projects I have worked on thus far. Ever since I was a kid I have been fascinated with the hardware side of things; never programming. I always felt programming to be boring, however that changed when I took my first programming class in High School, AP CSP. In that class, I learned what programming is, and block-coded up a few cool apps. Although this was block coding it helped me realize how important programming can be. This then lead me to take AP Java in which I learned java, a shocker. This was a tough leap from block coding to writing actual lines of code, but I eventually got the hang of it. Over the summer I delved deeper into java and learned more complex topics like importing data, implementation, and APIS. Additionally, I also learned python; for the sole purpose of automating boring daily tasks. Currently, I am taking IOS and working on EPHS Timer and OpenVote
+Hello! My name is Bilal Ahmed and I am a senior in high school. This portfolio showcases the projects I have worked on so far in my journey as a developer. Growing up, I always had a fascination with hardware, but programming seemed boring to me. That all changed when I took my first programming class in high school, AP CSP. In that class, I discovered the power and potential of programming and even created a few apps using block coding. Motivated to continue learning, I took AP Java and was introduced to the world of writing actual lines of code. It was a challenging transition, but I persevered and learned more advanced concepts such as data importing, implementation, and APIs. I also taught myself Python, which I use to automate mundane tasks. Since then, I have taken IOS courses and worked on developing two exciting projects: EPHS Timer and OpenVote. Thank you for visiting my portfolio and I hope you enjoy exploring my work.
 
-**Below are my best projects in each language; java, python, and swift**
+
+**Below are my best projects in each language: java, python, and swift**
 
 
 ## Python
 ### [Disney+](https://github.com/BillA-Dev/Disney-)
-This is the first python project I created that involved a GUI; a disney+ movie picker. I had always been the indecisive type of person; I could never choose the right move, so that's why I created this app. This app has saved me minutes of just pointless searching. This app was beneficial to make because I learned about UI--PYQT-- and how to use an API. 
+I am excited to share my first Python project involving a GUI with you: a Disney+ movie picker app. As someone who has always struggled with indecisiveness, I created this app to save myself the time and frustration of endless searching for the perfect movie to watch. In the process of building this app, I learned about UI design using PYQT and how to utilize APIs. Not only has this app been a huge time-saver for me, but it has also been a valuable learning experience. 
 ![Disney+](https://user-images.githubusercontent.com/79151733/161858349-26002d6f-7a97-4ae9-8f58-a0f3a97c43a8.png)
 ### [PYQT to python code](https://github.com/BillA-Dev/PYQT_to_Python)
-This is the second big python project that I created. I created this app to help save time when translating pyQT UI to Python code. Without the app, you have to use the terminal, and move files which is tedious, especially on a timeline. This project allowed me to learn how to call command lines in python code as well as threads.
+This is my second major Python project: an app designed to streamline the process of translating PYQT UI to Python code. Normally, to translate the UI one would have to use the terminal and manually move files: a tedious and time-consuming task, especially when working on a tight timeline. This app was designed to address that issue, and in the process of building it, I learned how to call command lines in Python code and work with threads. 
 
 ![pyqt](https://user-images.githubusercontent.com/79151733/161858820-7c76994b-d38d-4ca8-b143-58048e826952.png)
 ### [Vector Calculator](https://github.com/BillA-Dev/VectorAddition/blob/main/main.py)
