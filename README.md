@@ -16,19 +16,20 @@ This is my second major Python project: an app designed to streamline the proces
 
 ![pyqt](https://user-images.githubusercontent.com/79151733/161858820-7c76994b-d38d-4ca8-b143-58048e826952.png)
 ### [Vector Calculator](https://github.com/BillA-Dev/VectorAddition/blob/main/main.py)
-This is my last significant python project. The purpose of this app was to help me with my physics homework. There were not a lot of graphing resources online, and I didnt know if I was doing it correctly. This app takes the magnitude and angle and graphs them in a neat format. This project allowed me to learn about math functions in python and how to use mathplotlib
+I am excited to share my final significant Python project with you: a physics helper app. As a student, I discovered that there were not as many online resources available for graphing vectors, and I was often unsure if I was doing my homework correctly. This app was created to address that issue by taking the magnitude and angle of a given problem and graphing it in a clear and organized format. In the process of building this app, I learned about math functions in Python and how to use mathplotlib. 
 ![Vector](https://user-images.githubusercontent.com/79151733/161859780-d06b9167-6c75-4234-946a-46664c4af375.png)
 
 ## Java
 ### [Password Generator](https://github.com/BillA-Dev/PasswordGenerator)
-This was my first advanced java project because it involved the use of GUI components. Creating GUI is difficult in java but Eclipse has a nice plug-in that allows you to drag and drop. The purpose of the app was to create strong passwords on the go. This is helpful if you cant think of passwords or are in a rush. The project allowed me to learn about GUI components in java. 
+This was my first advanced Java project, which involved the use of GUI components. Creating GUI by using pure code can be challenging in Java, but I found that Eclipse has a convenient plug-in that allows you to easily drag and drop elements. The purpose of this app was to generate strong passwords on the go, which can be especially helpful if you're struggling to come up with a good password. While building this app, I learned about working with GUI components in Java, and the basics of password security.
 
 ![passwordGen](https://user-images.githubusercontent.com/79151733/161860099-e259cdda-467f-4f81-bd0f-6358381b9cf5.png)
 
 ### Cashier 
 *I will not be linking a repo, this has sensitive personal information regarding database and passwords*
 
-This is another project I made that doesn't have a real purpose. The reason I created this app was to test MySQL databases, which I have been interested in for a while. This app allowed me to learn how to connect java to MySQL and learn how MySQL data is stored.
+This is the second project that I created in order to explore and test the capabilities of MySQL databases, a technology that has long piqued my interest but was always too afraid to delve into. Through this project, I was able to learn how to connect Java to MySQL and gain an understanding of how MySQL data is stored and organized. While this app may not have a specific practical purpose, it has been a valuable learning experience for me and has further fueled my interest in database technology
+
 ![ADMIN](https://user-images.githubusercontent.com/79151733/161860091-61e14152-0d15-41b1-9dfa-4474125f2948.png)
 ### [Directory Watcher](https://github.com/BillA-Dev/DirectoryWatcher)
 This is my last java project and was by far the hardest. This project challenged me in many ways. For instance, I had to learn about how directories work, how to watch a directory constantly, transfer data between classes, saving choices. The intended purpose of the app was to clear the clutter in your directory. To illustrate, if you chose your download folder to be your watched directory the program would find the selected file endings and move them accordingly. 
