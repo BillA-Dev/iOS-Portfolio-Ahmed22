@@ -32,12 +32,12 @@ This is the second project that I created in order to explore and test the capab
 
 ![ADMIN](https://user-images.githubusercontent.com/79151733/161860091-61e14152-0d15-41b1-9dfa-4474125f2948.png)
 ### [Directory Watcher](https://github.com/BillA-Dev/DirectoryWatcher)
-This is my last java project and was by far the hardest. This project challenged me in many ways. For instance, I had to learn about how directories work, how to watch a directory constantly, transfer data between classes, saving choices. The intended purpose of the app was to clear the clutter in your directory. To illustrate, if you chose your download folder to be your watched directory the program would find the selected file endings and move them accordingly. 
+This is my last final Java project, one that has been the most challenging one to date. This project pushed me in many ways, requiring me to learn about how directories work, how to constantly watch a directory, and how to transfer data between classes and save user choices. The intended purpose of this app is to declutter a selected directory by finding files with certain endings and moving them to designated locations. This project has been a true test of my skills and has allowed me to expand my knowledge and understanding of the Java programming language.
 ![watchDir](https://user-images.githubusercontent.com/79151733/161860107-616c25fa-264a-4916-af0c-d741e154674f.png)
 
 ## Swift
 ### [EPHS Timer App](https://github.com/BillA-Dev/EPHS)
-The EPHS timer app was the first swift project I worked on. This was a steep learning curve as swift was not something I was used to. I thought of swift as a blend of java and python; could not quite wrap my brain around it. After a while, I eventually got it to work and had a lot of fun developing the app. This project is still ongoing but I learned how swiftUI works and cloudKit
+The EPHS timer app was my first touch into the world of Swift programming, and it was certainly a steep learning curve for me. As someone who was more familiar with Java and Python, I initially found it challenging to wrap my head around the unique syntax and concepts of Swift. However, with time, I was able to understand the language and get a prototype of the app up and running. This project is still ongoing, and through it, I have gained a deeper understanding of how SwiftUI works and how to use CloudKit. Overall, this has been a challenging but rewarding project for me.
 
 ![EPHS TIMER](https://user-images.githubusercontent.com/79151733/161882157-0c2bc839-ac36-4a2a-99b9-78ff1b5fcd82.png)
 
