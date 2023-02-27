@@ -61,6 +61,11 @@ Each semester, students in AP CSP create post-it note art around the high school
 ## Frameworks Used
 * [Andras Samu's ChartView](https://github.com/AppPear/ChartView)
 
+## Html, CSS, Js
+### [Fractal Generator](https://billa-dev.github.io/FractalGenerator/)
+This was the very first website I created, and it was a project that allowed me to showcase my programming skills while exploring a fascinating subject that I am deeply interested in - the Mandelbrot fractal. I used this project to challenge myself to create a visually stunning fractal that would mesmerize its viewers. The process of designing and developing the website taught me a great deal about web development and programming, and it was an invaluable experience in terms of improving my skills in these areas. As I continued to work on the project, I found that I was able to push my limits and achieve even more impressive results. Ultimately, this project became a true testament to my passion for programming and my drive to continuously improve my abilities.
+
+
 ## Programming Language Levels
 * Java - Intermediate
 * Python - Intermediate
