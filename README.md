@@ -1,4 +1,4 @@
-# iOS-Portfolio-Ahmed22
+# My Portfolio
 
 
 Hello! My name is Bilal Ahmed and I am a senior in high school. This portfolio showcases the projects I have worked on so far in my journey as a developer. Growing up, I always had a fascination with hardware, but programming seemed boring to me. That all changed when I took my first programming class in high school, AP CSP. In that class, I discovered the power and potential of programming and even created a few apps using block coding. Motivated to continue learning, I took AP Java and was introduced to the world of writing actual lines of code. It was a challenging transition, but I persevered and learned more advanced concepts such as data importing, implementation, and APIs. I also taught myself Python, which I use to automate mundane tasks. Since then, I have taken IOS courses and worked on developing two exciting projects: EPHS Timer and OpenVote. Thank you for visiting my portfolio and I hope you enjoy exploring my work.
@@ -72,4 +72,7 @@ This was the very first website I created, and it was a project that allowed me 
 * Swift - Intermediate
 * C++ - Beginner
 * SQL - Beginner
+* HTML - Intermediate
+* CSS - Beginner
+* JS - Intermediate
 
